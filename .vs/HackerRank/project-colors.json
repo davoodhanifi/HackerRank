@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7502857a-5dcb-43db-8602-bafc7f094d36": {
+      "ProjectGuid": "7502857a-5dcb-43db-8602-bafc7f094d36",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "0ac372cd-42d0-44bc-9348-9eeceee629cb": {
+      "ProjectGuid": "0ac372cd-42d0-44bc-9348-9eeceee629cb",
+      "DisplayName": "SalesByMatch",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
