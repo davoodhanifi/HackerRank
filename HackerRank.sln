@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warm-up Challenges", "Warm-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "Interview Preparation Kit\Warm-up Challenges\SalesByMatch\SalesByMatch.csproj", "{0483CB25-C33D-43B4-9E0E-BC9B2B931957}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "Interview Preparation Kit\Warm-up Challenges\SimpleArraySum\SimpleArraySum.csproj", "{955A0DC7-1370-4059-A7FC-CABDAA737EF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{0483CB25-C33D-43B4-9E0E-BC9B2B931957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0483CB25-C33D-43B4-9E0E-BC9B2B931957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0483CB25-C33D-43B4-9E0E-BC9B2B931957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955A0DC7-1370-4059-A7FC-CABDAA737EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955A0DC7-1370-4059-A7FC-CABDAA737EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955A0DC7-1370-4059-A7FC-CABDAA737EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955A0DC7-1370-4059-A7FC-CABDAA737EF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +32,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{966ECF17-0815-4E5D-BB4B-1CCB4B895E42} = {3CE39737-9A93-4395-AFAC-CE0C6B808B99}
 		{0483CB25-C33D-43B4-9E0E-BC9B2B931957} = {966ECF17-0815-4E5D-BB4B-1CCB4B895E42}
+		{955A0DC7-1370-4059-A7FC-CABDAA737EF9} = {966ECF17-0815-4E5D-BB4B-1CCB4B895E42}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5ACFAEAC-CFE5-4A55-BE1C-083E06870BD7}
