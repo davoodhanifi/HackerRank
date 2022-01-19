@@ -12,3 +12,4 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\Simpl
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SimpleArraySum\obj\Debug\net6.0\ref\SimpleArraySum.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SimpleArraySum\obj\Debug\net6.0\SimpleArraySum.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SimpleArraySum\obj\Debug\net6.0\SimpleArraySum.genruntimeconfig.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SimpleArraySum\obj\Debug\net6.0\SimpleArraySum.csproj.AssemblyReference.cache
