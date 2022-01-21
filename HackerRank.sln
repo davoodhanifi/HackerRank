@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpingOnClouds", "Intervie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "Interview Preparation Kit\Warm-up Challenges\RepeatedString\RepeatedString.csproj", "{78CE21EC-1B34-4A8B-BDB2-87069F479AD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValleysCount", "Interview Preparation Kit\Warm-up Challenges\ValleysCount\ValleysCount.csproj", "{6EF0A10C-B515-4440-923E-839B8F7DD718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{78CE21EC-1B34-4A8B-BDB2-87069F479AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78CE21EC-1B34-4A8B-BDB2-87069F479AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78CE21EC-1B34-4A8B-BDB2-87069F479AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF0A10C-B515-4440-923E-839B8F7DD718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF0A10C-B515-4440-923E-839B8F7DD718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF0A10C-B515-4440-923E-839B8F7DD718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF0A10C-B515-4440-923E-839B8F7DD718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,6 +67,7 @@ Global
 		{6DD7061F-D6E5-447B-9A49-C097F87DD3F1} = {966ECF17-0815-4E5D-BB4B-1CCB4B895E42}
 		{CD8A6B0F-E087-4891-B03B-2BFF210C08D7} = {966ECF17-0815-4E5D-BB4B-1CCB4B895E42}
 		{78CE21EC-1B34-4A8B-BDB2-87069F479AD1} = {966ECF17-0815-4E5D-BB4B-1CCB4B895E42}
+		{6EF0A10C-B515-4440-923E-839B8F7DD718} = {966ECF17-0815-4E5D-BB4B-1CCB4B895E42}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5ACFAEAC-CFE5-4A55-BE1C-083E06870BD7}
