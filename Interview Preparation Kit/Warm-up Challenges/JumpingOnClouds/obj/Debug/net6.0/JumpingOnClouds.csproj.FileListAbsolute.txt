@@ -13,3 +13,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\Jumpi
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.genruntimeconfig.cache
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.csproj.AssemblyReference.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\bin\Debug\net6.0\JumpingOnClouds.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\bin\Debug\net6.0\JumpingOnClouds.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\bin\Debug\net6.0\JumpingOnClouds.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\bin\Debug\net6.0\JumpingOnClouds.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\bin\Debug\net6.0\ref\JumpingOnClouds.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\bin\Debug\net6.0\JumpingOnClouds.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\ref\JumpingOnClouds.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\JumpingOnClouds\obj\Debug\net6.0\JumpingOnClouds.genruntimeconfig.cache

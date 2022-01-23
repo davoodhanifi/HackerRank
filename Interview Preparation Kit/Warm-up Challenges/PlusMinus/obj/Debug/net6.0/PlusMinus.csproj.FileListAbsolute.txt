@@ -13,3 +13,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusM
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\ref\PlusMinus.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.genruntimeconfig.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\bin\Debug\net6.0\PlusMinus.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\bin\Debug\net6.0\PlusMinus.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\bin\Debug\net6.0\PlusMinus.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\bin\Debug\net6.0\PlusMinus.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\bin\Debug\net6.0\ref\PlusMinus.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\bin\Debug\net6.0\PlusMinus.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\ref\PlusMinus.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\PlusMinus\obj\Debug\net6.0\PlusMinus.genruntimeconfig.cache

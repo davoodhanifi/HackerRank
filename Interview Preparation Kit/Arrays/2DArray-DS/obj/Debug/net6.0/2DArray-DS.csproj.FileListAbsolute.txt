@@ -1,0 +1,14 @@
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\ref\2DArray-DS.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\ref\2DArray-DS.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.genruntimeconfig.cache

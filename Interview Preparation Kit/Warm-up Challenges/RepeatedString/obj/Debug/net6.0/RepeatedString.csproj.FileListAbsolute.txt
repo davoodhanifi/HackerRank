@@ -13,3 +13,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\Repea
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\ref\RepeatedString.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.genruntimeconfig.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\bin\Debug\net6.0\RepeatedString.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\bin\Debug\net6.0\RepeatedString.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\bin\Debug\net6.0\RepeatedString.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\bin\Debug\net6.0\RepeatedString.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\bin\Debug\net6.0\ref\RepeatedString.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\bin\Debug\net6.0\RepeatedString.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\ref\RepeatedString.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\RepeatedString\obj\Debug\net6.0\RepeatedString.genruntimeconfig.cache

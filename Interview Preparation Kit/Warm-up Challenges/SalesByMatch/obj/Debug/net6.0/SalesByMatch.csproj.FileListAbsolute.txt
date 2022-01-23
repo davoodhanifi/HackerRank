@@ -13,3 +13,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\Sales
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\ref\SalesByMatch.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.genruntimeconfig.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\ref\SalesByMatch.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\ref\SalesByMatch.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.genruntimeconfig.cache
