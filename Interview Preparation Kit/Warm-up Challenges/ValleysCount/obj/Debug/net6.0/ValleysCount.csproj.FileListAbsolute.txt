@@ -26,3 +26,4 @@ C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\V
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ref\ValleysCount.dll
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.pdb
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.genruntimeconfig.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.csproj.AssemblyReference.cache

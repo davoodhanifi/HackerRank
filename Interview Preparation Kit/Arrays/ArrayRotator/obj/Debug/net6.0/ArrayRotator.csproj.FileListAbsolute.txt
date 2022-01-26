@@ -1,0 +1,14 @@
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.exe
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.deps.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.runtimeconfig.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ref\ArrayRotator.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.AssemblyInfoInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.AssemblyInfo.cs
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ref\ArrayRotator.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.genruntimeconfig.cache
