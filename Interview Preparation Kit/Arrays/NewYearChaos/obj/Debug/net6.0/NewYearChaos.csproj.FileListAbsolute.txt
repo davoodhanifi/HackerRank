@@ -1,0 +1,15 @@
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.exe
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.deps.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.runtimeconfig.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\ref\NewYearChaos.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.csproj.AssemblyReference.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.AssemblyInfoInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.AssemblyInfo.cs
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\ref\NewYearChaos.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.genruntimeconfig.cache
