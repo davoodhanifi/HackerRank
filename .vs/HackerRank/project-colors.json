@@ -60,7 +60,12 @@
       "ProjectGuid": "87711710-fc1e-40e5-9029-e79f5ecf6f73",
       "DisplayName": "ArrayRotator",
       "ColorIndex": 10
+    },
+    "0bf489d0-d8fe-46dc-9ec8-c82f225e64c5": {
+      "ProjectGuid": "0bf489d0-d8fe-46dc-9ec8-c82f225e64c5",
+      "DisplayName": "NewYearChaos",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }

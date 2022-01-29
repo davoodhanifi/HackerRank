@@ -1,0 +1,15 @@
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.exe
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.deps.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.runtimeconfig.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\ref\MinimumSwaps.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.csproj.AssemblyReference.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.AssemblyInfoInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.AssemblyInfo.cs
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\ref\MinimumSwaps.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.genruntimeconfig.cache
