@@ -1,0 +1,15 @@
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.exe
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.deps.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.runtimeconfig.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\ref\Array Manipulation.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.AssemblyInfoInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.AssemblyInfo.cs
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\ref\Array Manipulation.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.genruntimeconfig.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.csproj.AssemblyReference.cache

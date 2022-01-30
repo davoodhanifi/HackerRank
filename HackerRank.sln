@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewYearChaos", "Interview P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSwaps", "Interview Preparation Kit\Arrays\MinimumSwaps\MinimumSwaps.csproj", "{E75CC59A-6C0F-43A0-A2C9-E410200944AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Manipulation", "Interview Preparation Kit\Arrays\Array Manipulation\Array Manipulation.csproj", "{77DF7394-6D75-4CF7-A7AE-595EB77F1CE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E75CC59A-6C0F-43A0-A2C9-E410200944AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E75CC59A-6C0F-43A0-A2C9-E410200944AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E75CC59A-6C0F-43A0-A2C9-E410200944AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DF7394-6D75-4CF7-A7AE-595EB77F1CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF7394-6D75-4CF7-A7AE-595EB77F1CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF7394-6D75-4CF7-A7AE-595EB77F1CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF7394-6D75-4CF7-A7AE-595EB77F1CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +105,7 @@ Global
 		{87711710-FC1E-40E5-9029-E79F5ECF6F73} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
 		{0BF489D0-D8FE-46DC-9EC8-C82F225E64C5} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
 		{E75CC59A-6C0F-43A0-A2C9-E410200944AF} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
+		{77DF7394-6D75-4CF7-A7AE-595EB77F1CE9} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5ACFAEAC-CFE5-4A55-BE1C-083E06870BD7}
