@@ -30,23 +30,23 @@ class Result
         long max = 0;
         long sum = 0;
 
-        for (var i = 0; i < queries.Length; i++) 
+        for (var i = 0; i < queries.Length; i++)
         {
-            var a = queries[i][0] - 1;
-            var b = queries[i][1] - 1;
+            var a = queries[i][0]- 1;
+            var b = queries[i][1];
             var k = queries[i][2];
 
             array[a] += k;
-            if (b + 1 < n)
-            {
-                array[b + 1] -= k;
-            }
+
+            if (b < n)
+                array[b] -= k;
         }
 
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < array.Length; i++)
         {
             sum += array[i];
-            max = Math.Max(max, sum);
+            if (sum > max)
+                max = sum;
         }
 
         return max;
@@ -57,25 +57,23 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-        //string[] firstMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
+        string[] firstMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
 
-        //int n = Convert.ToInt32(firstMultipleInput[0]);
+        int n = Convert.ToInt32(firstMultipleInput[0]);
 
-        //int m = Convert.ToInt32(firstMultipleInput[1]);
-        var queries = new int[3][];
+        int m = Convert.ToInt32(firstMultipleInput[1]);
+        var queries = new int[m][];
 
-        //for (int i = 0; i < m; i++)
-        //    queries[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
-        queries[0] = new int[]{ 2,3,603};
-        queries[1] = new int[]{ 1,1,286};
-        queries[2] = new int[]{ 4,4,882};
-        var result = Result.ArrayManipulation(4, queries);
+        for (int i = 0; i < m; i++)
+            queries[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
 
-        //textWriter.WriteLine(result);
+        var result = Result.ArrayManipulation(n, queries);
 
-        //textWriter.Flush();
-        //textWriter.Close();
+        textWriter.WriteLine(result);
+
+        textWriter.Flush();
+        textWriter.Close();
     }
 }
