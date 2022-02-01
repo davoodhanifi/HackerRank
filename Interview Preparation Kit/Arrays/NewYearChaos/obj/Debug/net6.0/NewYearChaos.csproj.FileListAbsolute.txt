@@ -13,3 +13,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\ref\NewYearChaos.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.genruntimeconfig.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\ref\NewYearChaos.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\bin\Debug\net6.0\NewYearChaos.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\ref\NewYearChaos.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\NewYearChaos\obj\Debug\net6.0\NewYearChaos.genruntimeconfig.cache

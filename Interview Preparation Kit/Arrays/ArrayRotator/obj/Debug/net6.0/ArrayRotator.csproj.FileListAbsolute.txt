@@ -12,3 +12,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ref\ArrayRotator.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.genruntimeconfig.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ref\ArrayRotator.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\bin\Debug\net6.0\ArrayRotator.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ref\ArrayRotator.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.genruntimeconfig.cache

@@ -12,7 +12,6 @@ C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\ob
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\ref\2DArray-DS.dll
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.pdb
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.genruntimeconfig.cache
-C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\obj\Debug\net6.0\2DArray-DS.csproj.AssemblyReference.cache
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.exe
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.deps.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\2DArray-DS\bin\Debug\net6.0\2DArray-DS.runtimeconfig.json

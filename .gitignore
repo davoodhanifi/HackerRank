@@ -4,22 +4,23 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.cache
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+[Dd]ebug/**
+[Dd]ebugPublic/**
+[Rr]elease/**
+[Rr]eleases/**
+x64/**
+x86/**
+[Ww][Ii][Nn]32/**
+[Aa][Rr][Mm]/**
+[Aa][Rr][Mm]64/**
+bld/**
+[Bb]in/**
+[Oo]bj/**
+[Ll]og/**
+[Ll]ogs/**
 
 
 # .NET Core
@@ -62,12 +63,6 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-
-# Chutzpah Test files
-_Chutzpah*
-
-# Guidance Automation Toolkit
-*.gpState
 
 # ReSharper is a .NET coding add-in
 _ReSharper*/

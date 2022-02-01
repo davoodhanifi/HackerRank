@@ -65,7 +65,12 @@
       "ProjectGuid": "0bf489d0-d8fe-46dc-9ec8-c82f225e64c5",
       "DisplayName": "NewYearChaos",
       "ColorIndex": 11
+    },
+    "77df7394-6d75-4cf7-a7ae-595eb77f1ce9": {
+      "ProjectGuid": "77df7394-6d75-4cf7-a7ae-595eb77f1ce9",
+      "DisplayName": "Array Manipulation",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }

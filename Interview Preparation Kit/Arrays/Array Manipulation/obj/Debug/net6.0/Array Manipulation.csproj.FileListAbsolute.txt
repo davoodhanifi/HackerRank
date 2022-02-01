@@ -13,3 +13,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulatio
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.genruntimeconfig.cache
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.csproj.AssemblyReference.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\ref\Array Manipulation.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\bin\Debug\net6.0\Array Manipulation.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\ref\Array Manipulation.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\Array Manipulation\obj\Debug\net6.0\Array Manipulation.genruntimeconfig.cache

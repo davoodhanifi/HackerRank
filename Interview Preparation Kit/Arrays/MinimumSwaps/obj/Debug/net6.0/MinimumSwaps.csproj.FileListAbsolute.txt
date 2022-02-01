@@ -13,3 +13,17 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\ref\MinimumSwaps.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.genruntimeconfig.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.exe
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.deps.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.runtimeconfig.json
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\ref\MinimumSwaps.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\bin\Debug\net6.0\MinimumSwaps.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.AssemblyInfoInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.AssemblyInfo.cs
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\ref\MinimumSwaps.dll
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.pdb
+C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\MinimumSwaps\obj\Debug\net6.0\MinimumSwaps.genruntimeconfig.cache

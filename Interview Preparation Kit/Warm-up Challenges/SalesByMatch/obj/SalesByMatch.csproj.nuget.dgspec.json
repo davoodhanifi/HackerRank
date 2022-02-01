@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj": {}
+    "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj": {
+    "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj",
+        "projectUniqueName": "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj",
         "projectName": "SalesByMatch",
-        "projectPath": "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\obj\\",
+        "projectPath": "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\SalesByMatch.csproj",
+        "packagesPath": "C:\\Users\\D.Hanifi\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\SalesByMatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\D.Hanifi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
