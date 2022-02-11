@@ -8,25 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\D.Hanifi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\Staircase\\Staircase.csproj",
+      "projectUniqueName": "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\Staircase\\Staircase.csproj",
       "projectName": "Staircase",
-      "projectPath": "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\Staircase\\Staircase.csproj",
-      "packagesPath": "C:\\Users\\D.Hanifi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\MyProjects\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\Staircase\\obj\\",
+      "projectPath": "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\Staircase\\Staircase.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\Staircase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\D.Hanifi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
