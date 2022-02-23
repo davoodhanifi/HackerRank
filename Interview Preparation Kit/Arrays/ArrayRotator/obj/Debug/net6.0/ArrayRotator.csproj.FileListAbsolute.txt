@@ -26,3 +26,4 @@ C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ref\ArrayRotator.dll
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.pdb
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.genruntimeconfig.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Arrays\ArrayRotator\obj\Debug\net6.0\ArrayRotator.csproj.AssemblyReference.cache

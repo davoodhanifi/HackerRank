@@ -75,7 +75,17 @@
       "ProjectGuid": "77df7394-6d75-4cf7-a7ae-595eb77f1ce9",
       "DisplayName": "Array Manipulation",
       "ColorIndex": 13
+    },
+    "6fc79466-a3e6-48a7-b9d5-f231efe848d0": {
+      "ProjectGuid": "6fc79466-a3e6-48a7-b9d5-f231efe848d0",
+      "DisplayName": "RansomNote",
+      "ColorIndex": 14
+    },
+    "7fca3109-44e2-4d41-9836-f1c3e2f78a7a": {
+      "ProjectGuid": "7fca3109-44e2-4d41-9836-f1c3e2f78a7a",
+      "DisplayName": "CommonSubstring",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 0
 }
