@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "Interview Pre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoStrings", "Interview Preparation Kit\Dictionaries and Hashmaps\TwoStrings\TwoStrings.csproj", "{CF4078D9-35B1-4398-ACA3-E1ACA5FD2C8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndAnagrams", "Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\SherlockAndAnagrams.csproj", "{9B299D12-9F64-4039-9BF4-9C5274A6F7AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{CF4078D9-35B1-4398-ACA3-E1ACA5FD2C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF4078D9-35B1-4398-ACA3-E1ACA5FD2C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF4078D9-35B1-4398-ACA3-E1ACA5FD2C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B299D12-9F64-4039-9BF4-9C5274A6F7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B299D12-9F64-4039-9BF4-9C5274A6F7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B299D12-9F64-4039-9BF4-9C5274A6F7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B299D12-9F64-4039-9BF4-9C5274A6F7AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +129,7 @@ Global
 		{439F1805-FA71-4B69-8F7F-9464BD76CD62} = {3CE39737-9A93-4395-AFAC-CE0C6B808B99}
 		{6FC79466-A3E6-48A7-B9D5-F231EFE848D0} = {439F1805-FA71-4B69-8F7F-9464BD76CD62}
 		{CF4078D9-35B1-4398-ACA3-E1ACA5FD2C8C} = {439F1805-FA71-4B69-8F7F-9464BD76CD62}
+		{9B299D12-9F64-4039-9BF4-9C5274A6F7AA} = {439F1805-FA71-4B69-8F7F-9464BD76CD62}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5ACFAEAC-CFE5-4A55-BE1C-083E06870BD7}

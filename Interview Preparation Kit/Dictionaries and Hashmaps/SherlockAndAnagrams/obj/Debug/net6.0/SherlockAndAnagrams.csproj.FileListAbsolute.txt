@@ -1,0 +1,15 @@
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\bin\Debug\net6.0\SherlockAndAnagrams.exe
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\bin\Debug\net6.0\SherlockAndAnagrams.deps.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\bin\Debug\net6.0\SherlockAndAnagrams.runtimeconfig.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\bin\Debug\net6.0\SherlockAndAnagrams.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\bin\Debug\net6.0\ref\SherlockAndAnagrams.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\bin\Debug\net6.0\SherlockAndAnagrams.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.csproj.AssemblyReference.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.AssemblyInfoInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.AssemblyInfo.cs
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\ref\SherlockAndAnagrams.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\SherlockAndAnagrams\obj\Debug\net6.0\SherlockAndAnagrams.genruntimeconfig.cache
