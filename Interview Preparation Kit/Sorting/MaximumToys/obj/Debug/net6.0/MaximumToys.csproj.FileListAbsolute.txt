@@ -1,0 +1,15 @@
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\bin\Debug\net6.0\MaximumToys.exe
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\bin\Debug\net6.0\MaximumToys.deps.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\bin\Debug\net6.0\MaximumToys.runtimeconfig.json
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\bin\Debug\net6.0\MaximumToys.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\bin\Debug\net6.0\ref\MaximumToys.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\bin\Debug\net6.0\MaximumToys.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.csproj.AssemblyReference.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.AssemblyInfoInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.AssemblyInfo.cs
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\ref\MaximumToys.dll
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.pdb
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\MaximumToys\obj\Debug\net6.0\MaximumToys.genruntimeconfig.cache
