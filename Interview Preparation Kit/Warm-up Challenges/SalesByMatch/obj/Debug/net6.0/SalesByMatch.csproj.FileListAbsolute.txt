@@ -2,7 +2,6 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\Sales
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.deps.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.runtimeconfig.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.dll
-D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\ref\SalesByMatch.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\bin\Debug\net6.0\SalesByMatch.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.csproj.AssemblyReference.cache
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
@@ -27,3 +26,4 @@ C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\S
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\ref\SalesByMatch.dll
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.pdb
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\SalesByMatch.genruntimeconfig.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\SalesByMatch\obj\Debug\net6.0\refint\SalesByMatch.dll

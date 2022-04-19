@@ -2,7 +2,6 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmap
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\bin\Debug\net6.0\RansomNote.deps.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\bin\Debug\net6.0\RansomNote.runtimeconfig.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\bin\Debug\net6.0\RansomNote.dll
-D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\bin\Debug\net6.0\ref\RansomNote.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\bin\Debug\net6.0\RansomNote.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\obj\Debug\net6.0\RansomNote.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\obj\Debug\net6.0\RansomNote.AssemblyInfoInputs.cache
@@ -12,3 +11,5 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmap
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\obj\Debug\net6.0\ref\RansomNote.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\obj\Debug\net6.0\RansomNote.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\obj\Debug\net6.0\RansomNote.genruntimeconfig.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\obj\Debug\net6.0\RansomNote.csproj.AssemblyReference.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Dictionaries and Hashmaps\RansomNote\obj\Debug\net6.0\refint\RansomNote.dll

@@ -2,7 +2,6 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\Valle
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\bin\Debug\net6.0\ValleysCount.deps.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\bin\Debug\net6.0\ValleysCount.runtimeconfig.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\bin\Debug\net6.0\ValleysCount.dll
-D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\bin\Debug\net6.0\ref\ValleysCount.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\bin\Debug\net6.0\ValleysCount.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.AssemblyInfoInputs.cache
@@ -27,3 +26,4 @@ C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\V
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.pdb
 C:\Projects\MyProjects\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.genruntimeconfig.cache
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\ValleysCount.csproj.AssemblyReference.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Warm-up Challenges\ValleysCount\obj\Debug\net6.0\refint\ValleysCount.dll
