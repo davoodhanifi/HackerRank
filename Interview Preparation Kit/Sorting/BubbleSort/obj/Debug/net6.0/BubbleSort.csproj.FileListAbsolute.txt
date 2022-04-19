@@ -2,7 +2,6 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\bin\D
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
-D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\bin\Debug\net6.0\ref\BubbleSort.dll
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
@@ -13,3 +12,4 @@ D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\obj\D
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
 D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+D:\Projects\Myself\HackerRank\Interview Preparation Kit\Sorting\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
