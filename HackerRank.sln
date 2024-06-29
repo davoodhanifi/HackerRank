@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlternatingCharacters", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "Interview Preparation Kit\Arrays\TwoSum\TwoSum\TwoSum.csproj", "{7542305D-EB0E-479F-9F3A-9C0DD88F6352}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "Interview Preparation Kit\Arrays\RemoveDuplicates\RemoveDuplicates\RemoveDuplicates.csproj", "{97FF5F13-102F-4A97-A452-CB7DB0FD2AFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{7542305D-EB0E-479F-9F3A-9C0DD88F6352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7542305D-EB0E-479F-9F3A-9C0DD88F6352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7542305D-EB0E-479F-9F3A-9C0DD88F6352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FF5F13-102F-4A97-A452-CB7DB0FD2AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FF5F13-102F-4A97-A452-CB7DB0FD2AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FF5F13-102F-4A97-A452-CB7DB0FD2AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FF5F13-102F-4A97-A452-CB7DB0FD2AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +177,7 @@ Global
 		{031CC522-71CA-4266-B6D8-E367B45FB2BB} = {8BB0AD35-EDD0-4E07-ABFA-45980B06AEE3}
 		{FFF39CBD-4CEC-43B9-86E8-267AEC9DB107} = {8BB0AD35-EDD0-4E07-ABFA-45980B06AEE3}
 		{7542305D-EB0E-479F-9F3A-9C0DD88F6352} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
+		{97FF5F13-102F-4A97-A452-CB7DB0FD2AFC} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5ACFAEAC-CFE5-4A55-BE1C-083E06870BD7}
