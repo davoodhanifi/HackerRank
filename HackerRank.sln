@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "Intervi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "Interview Preparation Kit\Arrays\RemoveElement\RemoveElement\RemoveElement.csproj", "{5604B694-F8B2-4CB1-914A-3368CADEB394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsets", "Interview Preparation Kit\Arrays\Subsets\Subsets\Subsets.csproj", "{944CEC04-330D-45AE-A187-9D40EE58D1F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{5604B694-F8B2-4CB1-914A-3368CADEB394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5604B694-F8B2-4CB1-914A-3368CADEB394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5604B694-F8B2-4CB1-914A-3368CADEB394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944CEC04-330D-45AE-A187-9D40EE58D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944CEC04-330D-45AE-A187-9D40EE58D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944CEC04-330D-45AE-A187-9D40EE58D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944CEC04-330D-45AE-A187-9D40EE58D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +191,7 @@ Global
 		{7542305D-EB0E-479F-9F3A-9C0DD88F6352} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
 		{97FF5F13-102F-4A97-A452-CB7DB0FD2AFC} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
 		{5604B694-F8B2-4CB1-914A-3368CADEB394} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
+		{944CEC04-330D-45AE-A187-9D40EE58D1F5} = {994C3BCD-293A-4938-BD49-798DCBF3BCBC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5ACFAEAC-CFE5-4A55-BE1C-083E06870BD7}
