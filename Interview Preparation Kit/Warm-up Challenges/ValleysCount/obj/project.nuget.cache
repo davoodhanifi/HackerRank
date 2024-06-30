@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HH2dFjNT3xVr3BIQ4HwrLfY6wHW7uHJsPHzg4THmibutp3osgA/stwlos1hvM/4vNzrMNLWV5UR/GFhmz3vcJQ==",
+  "dgSpecHash": "TtjDgHNlBM0=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Myself\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\ValleysCount\\ValleysCount.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\31686\\repo\\HackerRank\\Interview Preparation Kit\\Warm-up Challenges\\ValleysCount\\ValleysCount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\31686\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\31686\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\31686\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\31686\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -85,3 +85,13 @@ Interview Preparation Kit/Arrays/TwoSum/TwoSum/obj/Debug/net8.0/.NETCoreApp,Vers
 Interview Preparation Kit/Arrays/TwoSum/TwoSum/obj/Debug/net8.0/TwoSum.AssemblyInfo.cs
 Interview Preparation Kit/Arrays/TwoSum/TwoSum/obj/Debug/net8.0/TwoSum.GeneratedMSBuildEditorConfig.editorconfig
 Interview Preparation Kit/Arrays/TwoSum/TwoSum/obj/Debug/net8.0/TwoSum.GlobalUsings.g.cs
+*.vsidx
+*.json
+*.props
+*.targets
+*.dll
+*.exe
+*.cs
+*.BuildWithSkipAnalyzers
+*.txt
+*.editorconfig
